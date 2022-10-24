@@ -1,8 +1,9 @@
 # Phishing-system
-
-
 Had repo fiha Script dyal les modele dyal apple icloud , Netflix ftawr l injazzzz
-la darto chi laaba thamal lmasouliya rad balak ti7 flamredee
+
+<br>
+
+la darti chi laaba thamal lmasouliya rad balak ti7 flamredee
 
 
 apt update -y
