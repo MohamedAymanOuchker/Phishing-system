@@ -1,8 +1,6 @@
 # Phishing-system
 Had repo fiha Script dyal les modele dyal apple icloud , Netflix ftawr l injazzzz
 
-<br>
-
 la darti chi laaba thamal lmasouliya rad balak ti7 flamredee
 
 
@@ -10,9 +8,9 @@ apt update -y
 
 apt upgrade -y
 
-git clone ...............
+git clone https://github.com/yassinbenmansour/Phishing-system.git
 
-cd 
+cd Phishing-system
 
 chmod 777 ..........sh
 
